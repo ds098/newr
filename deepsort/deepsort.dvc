@@ -1,0 +1,5 @@
+outs:
+- md5: 85e73a3220a652f60afffd4c6fa20506.dir
+  size: 35056152
+  nfiles: 31
+  path: deepsort
