@@ -1,0 +1,16 @@
+{
+"Author" : ?,
+"Weight file" : ?,
+"Iterations" : ?,
+"Format" : ?,
+"Dataset used": ?,
+"Pretrained weight": ?,
+"mAP on test set": {
+	"helmet AP": ?, "person AP": ?
+	},
+"Precision and Recall on ANG (Thresholded at 0.60)": {
+	"P": ?, "R": ?
+	},
+"gpu model version (only fill for openvino)" : ?,
+"Commit number link to" : ?
+}
